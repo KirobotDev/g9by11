@@ -1,6 +1,6 @@
 [![41580111cc4f9cbe669031ae689506ea.gif](https://i.postimg.cc/Y2bv736W/41580111cc4f9cbe669031ae689506ea.gif)](https://postimg.cc/hhQDbV3D)
 
-- <div>🇫🇷 Just a guy learning <img src="https://i.postimg.cc/G3JCYp0N/image.png" alt="Javascript" width="16" /> Javascript</div>
+- <div>🇫🇷 ***Just a guy learning*** <img src="https://i.postimg.cc/G3JCYp0N/image.png" alt="Javascript" width="16" /> Javascript</div>
 
 - Currently studying in France
 
