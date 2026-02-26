@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://discord.gg/kirosb"><img src="https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
     <a href="https://kirosb.mysellauth.com/"><img src="https://img.shields.io/badge/Shop-Buy%20Now-FF9900?style=for-the-badge&logo=shopify&logoColor=white" alt="Shop" /></a>
-    <a href="https://github.com/KirobotDev"><img src="https://img.shields.io/badge/Github-Developer-black?style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a>
+    <a href="https://github.com/g9by11"><img src="https://img.shields.io/badge/Github-Developer-black?style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a>
   </p>
 
   ---
